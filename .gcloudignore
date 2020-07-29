@@ -1,0 +1,11 @@
+.editorconfig
+.gcloudignore
+.gitattributes
+.gitignore
+LICENSE
+README.md
+
+.git/
+.idea/
+tests/
+venv/
